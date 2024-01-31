@@ -7,4 +7,6 @@ print(b)
 c = 100
 d = 150
 print(d)
+e = 160
+print(e)
 #Program Ends
